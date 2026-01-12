@@ -1,4 +1,3 @@
-# czech-eshop-scraper
 # Alza Product Scraper
 
 🛒 Python web scraper for extracting product data from Alza.cz (Czech e-commerce platform). Extract product information and export to CSV with optional HTML table visualization featuring advanced filtering.
