@@ -290,9 +290,10 @@ alza-product-scraper/
 ├── csv_to_catalogue.py      # CSV to HTML converter
 ├── README.md               # This file
 ├── msdriver.exe # Microsoft EDGE Browser driver for Selenium
-
-
 ```
+
+<img width="1745" height="1263" alt="image" src="https://github.com/user-attachments/assets/c14206ee-8199-454a-9c5b-3aad64cd29fd" />
+
 
 ## 💡 Tips & Best Practices
 
