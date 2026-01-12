@@ -112,6 +112,10 @@ Use Selenium when the website:
                           │ • Link: alza.cz/...  │
                           └──────────────────────┘
 ```
+![alza_scrape](https://github.com/user-attachments/assets/b5ae89dc-fd52-4bd7-9de6-f8a7c0f915b9)
+
+![alza_scrape_2](https://github.com/user-attachments/assets/eca9f94c-4dbe-49dc-bbf1-857940e01983)
+
 
 ### Step-by-Step Visual Guide
 
